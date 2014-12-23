@@ -1,0 +1,40 @@
+D:\windows programming\Person\ClassLibrary1\bin\Debug\HouseClasses.dll
+D:\windows programming\Person\ClassLibrary1\bin\Debug\HouseClasses.pdb
+D:\windows programming\Person\ClassLibrary1\bin\Debug\HouseClasses.xml
+D:\windows programming\Person\ClassLibrary1\obj\Debug\UWPCS3340.Resources.resources
+D:\windows programming\Person\ClassLibrary1\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+D:\windows programming\Person\ClassLibrary1\obj\Debug\HouseClasses.dll
+D:\windows programming\Person\ClassLibrary1\obj\Debug\HouseClasses.xml
+D:\windows programming\Person\ClassLibrary1\obj\Debug\HouseClasses.pdb
+J:\Windowprogramming\Person\ClassLibrary1\bin\Debug\HouseClasses.dll
+J:\Windowprogramming\Person\ClassLibrary1\bin\Debug\HouseClasses.pdb
+J:\Windowprogramming\Person\ClassLibrary1\bin\Debug\HouseClasses.xml
+J:\Windowprogramming\Person\ClassLibrary1\obj\Debug\UWPCS3340.Resources.resources
+J:\Windowprogramming\Person\ClassLibrary1\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+J:\Windowprogramming\Person\ClassLibrary1\obj\Debug\HouseClasses.dll
+J:\Windowprogramming\Person\ClassLibrary1\obj\Debug\HouseClasses.xml
+J:\Windowprogramming\Person\ClassLibrary1\obj\Debug\HouseClasses.pdb
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\bin\Debug\HouseClasses.dll
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\bin\Debug\HouseClasses.pdb
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\bin\Debug\HouseClasses.xml
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\obj\Debug\UWPCS3340.Resources.resources
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\obj\Debug\HouseClasses.dll
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\obj\Debug\HouseClasses.xml
+J:\Windowprogramming\tranq_Prog2\ClassLibrary1\obj\Debug\HouseClasses.pdb
+D:\windows programming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.dll
+D:\windows programming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.pdb
+D:\windows programming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.xml
+D:\windows programming\tranq_Prog3\ClassLibrary1\obj\Debug\UWPCS3340.Resources.resources
+D:\windows programming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+D:\windows programming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.dll
+D:\windows programming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.xml
+D:\windows programming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.pdb
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.dll
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.pdb
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\bin\Debug\HouseClasses.xml
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\obj\Debug\UWPCS3340.Resources.resources
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.dll
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.xml
+J:\Windowprogramming\tranq_Prog3\ClassLibrary1\obj\Debug\HouseClasses.pdb

@@ -1,0 +1,30 @@
+D:\windows programming\tranq_Prog3\Person\bin\Debug\FormClasses.dll.config
+D:\windows programming\tranq_Prog3\Person\bin\Debug\FormClasses.dll
+D:\windows programming\tranq_Prog3\Person\bin\Debug\FormClasses.pdb
+D:\windows programming\tranq_Prog3\Person\bin\Debug\FormClasses.xml
+D:\windows programming\tranq_Prog3\Person\bin\Debug\HouseClasses.dll
+D:\windows programming\tranq_Prog3\Person\bin\Debug\HouseClasses.pdb
+D:\windows programming\tranq_Prog3\Person\bin\Debug\HouseClasses.xml
+D:\windows programming\tranq_Prog3\Person\obj\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+D:\windows programming\tranq_Prog3\Person\obj\Debug\UWPCS3340.FormClassHouse.resources
+D:\windows programming\tranq_Prog3\Person\obj\Debug\UWPCS3340.FormClassList.resources
+D:\windows programming\tranq_Prog3\Person\obj\Debug\UWPCS3340.Resources.resources
+D:\windows programming\tranq_Prog3\Person\obj\Debug\FormClasses.vbproj.GenerateResource.Cache
+D:\windows programming\tranq_Prog3\Person\obj\Debug\FormClasses.dll
+D:\windows programming\tranq_Prog3\Person\obj\Debug\FormClasses.xml
+D:\windows programming\tranq_Prog3\Person\obj\Debug\FormClasses.pdb
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\FormClasses.dll.config
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\FormClasses.dll
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\FormClasses.pdb
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\FormClasses.xml
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\HouseClasses.dll
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\HouseClasses.pdb
+J:\Windowprogramming\tranq_Prog3\Person\bin\Debug\HouseClasses.xml
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\UWPCS3340.FormClassHouse.resources
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\UWPCS3340.FormClassList.resources
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\UWPCS3340.Resources.resources
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\FormClasses.vbproj.GenerateResource.Cache
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\FormClasses.dll
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\FormClasses.xml
+J:\Windowprogramming\tranq_Prog3\Person\obj\Debug\FormClasses.pdb
